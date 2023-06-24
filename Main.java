@@ -23,9 +23,20 @@ public class Main {
         System.out.println(name);
         System.out.println(id_no);
     }
+    void Ermias_tesfsh() {
+        String name = "Ermias Tesfaye";
+        int id_no = 0214;
+        System.out.println(name);
+        System.out.println(id_no);
+    }
 
     public static void main(String args[]) {
         System.out.println("this is our reopsitory");
-
+       Main info=new Main();
+       info.amanuel_Bekele();
+       info.Biruk_Damte();
+       info.Asaye_Chala();
+       info.Bizuayhu_s();
+       info. Ermias_tesfsh();
     }
 }
