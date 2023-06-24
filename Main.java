@@ -29,6 +29,12 @@ public class Main {
         System.out.println(name);
         System.out.println(id_no);
     }
+    void Natnael_Yonas() {
+        String name = "Natnael Yonas";
+        int id_no = 1307331;
+        System.out.println(name);
+        System.out.println(id_no);
+    }
 
     public static void main(String args[]) {
         System.out.println("this is our reopsitory");
@@ -37,6 +43,7 @@ public class Main {
        info.Biruk_Damte();
        info.Asaye_Chala();
        info.Bizuayhu_s();
-       info. Ermias_tesfsh();
+       info.Ermias_tesfsh();
+       info.Natnael_Yonas();
     }
 }
