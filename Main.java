@@ -17,6 +17,12 @@ public class Main {
         System.out.println(name);
         System.out.println(id_no);
     }
+     void Bizuayhu_s() {
+        String name = "Bizuayhu Simachew";
+        int id_no = 0310;
+        System.out.println(name);
+        System.out.println(id_no);
+    }
 
     public static void main(String args[]) {
         System.out.println("this is our reopsitory");
