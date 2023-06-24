@@ -1,7 +1,7 @@
 # Software tools and practice assignmnet
 #
 #     Name                   ID 
-# 1.Birk Danmte           0344/13 
+# 1.Biruk Damte           0344/13 
 # 2.Biruk Kasahun         1253/13 
 # 3.Bizuayehu Simachewu   0310/13 
 # 4.Amanuell Bekele       1227/13 
