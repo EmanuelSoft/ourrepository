@@ -3,7 +3,7 @@
 #     Name                   ID 
 # 1.Biruk Damte           0344/13 
 # 2.Biruk Kasahun         1253/13 
-# 3.Bizuayehu Simachewu   0310/13 
+# 3.Bizuayehu Simachew   0310/13 
 # 4.Amanuell Bekele       1227/13 
 # 5.Asaye Chala           1579/13 
 # 6.Natnael Geleta        0754/13 
