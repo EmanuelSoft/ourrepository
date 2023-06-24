@@ -8,6 +8,6 @@
 # 5.Asaye Chala           1579/13 
 # 6.Natnael Geleta        0754/13 
 # 7.Kaleb Tenkir          0668/13 
-# 8.Natnael Yonas         t/1307331/13 
+# 8.Natnael Yonas         T/1307331
 # 9.Selamawit tolera      1056/13
 # 10. Ermias Tesfaye      0214/13
