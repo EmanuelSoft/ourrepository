@@ -41,7 +41,12 @@ public class Main {
         System.out.println(name);
         System.out.println(id_no);
     }
-    
+    void selamawit_Tolera() {
+        String name = "selamawit Tolera";
+        int id_no = 1056;
+        System.out.println(name);
+        System.out.println(id_no);
+    }
 
 
     public static void main(String args[]) {
@@ -54,5 +59,6 @@ public class Main {
        info.Ermias_tesfsh();
        info.Natnael_Yonas();
        info.Biruk_Kasahun();
+       info.selamawit_Tolera();
     }
 }
