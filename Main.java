@@ -35,6 +35,14 @@ public class Main {
         System.out.println(name);
         System.out.println(id_no);
     }
+    void Biruk_Kasahun() {
+        String name = "Biruk kasahun";
+        int id_no = 1253;
+        System.out.println(name);
+        System.out.println(id_no);
+    }
+    
+
 
     public static void main(String args[]) {
         System.out.println("this is our reopsitory");
@@ -45,5 +53,6 @@ public class Main {
        info.Bizuayhu_s();
        info.Ermias_tesfsh();
        info.Natnael_Yonas();
+       info.Biruk_Kasahun();
     }
 }
