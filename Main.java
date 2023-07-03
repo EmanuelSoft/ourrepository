@@ -53,6 +53,13 @@ public class Main {
         System.out.println(name);
         System.out.println(id_no);
     }
+     void kaleab_tenkir() {
+        String name = "kaleab tenkir";
+        int id_no = 0668;
+        System.out.println(name);
+        System.out.println(id_no);
+    }
+
 
 
     public static void main(String args[]) {
@@ -67,5 +74,6 @@ public class Main {
        info.Biruk_Kasahun();
        info.selamawit_Tolera();
        info.natnael_geleta();
+       info.kaleab_tenkir();
     }
 }
